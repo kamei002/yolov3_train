@@ -31,8 +31,16 @@ python3 make_datasets.py --input [video_dir]/\*.mp4
   <th style="width:50%">before</th>
   <th style="width:50%">after</th>
   <tr>
-    <td>![before](https://cdn-ak.f.st-hatena.com/images/fotolife/a/ascreit/20180918/20180918210051.gif)</td>
-    <td>![after](https://cdn-ak.f.st-hatena.com/images/fotolife/a/ascreit/20180918/20180918205934.gif)</td>
+    <td>
+
+    ![before](https://github.com/kamei002/yolov3_train/blob/media/before.gif)
+    
+    </td>
+    <td>
+
+    ![after](https://github.com/kamei002/yolov3_train/blob/media/after.gif)
+
+    </td>
   </tr>
 
 </table>
