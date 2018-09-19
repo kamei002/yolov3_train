@@ -26,15 +26,8 @@ python3 make_datasets.py --input [video_dir]/\*.mp4
 
 ---
 ## Training Result
-
-<table style="width:100%">
-  <th style="width:50%">before</th>
-  <th style="width:50%">after</th>
-  <tr>
-    <td>![before](https://cdn-ak.f.st-hatena.com/images/fotolife/a/ascreit/20180918/20180918210051.gif)</td>
-    <td>![after](https://cdn-ak.f.st-hatena.com/images/fotolife/a/ascreit/20180918/20180918205934.gif)</td>
-  </tr>
-
-</table>
+|Before|After|
+|:-|:-:|
+|![before](https://github.com/kamei002/yolov3_train/blob/media/before.gif)|![after](https://github.com/kamei002/yolov3_train/blob/media/after.gif)|
 
 Improved? Or deterioration?
